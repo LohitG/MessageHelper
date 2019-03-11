@@ -1,9 +1,9 @@
 {
-  "devToolsPort": 19003,
+  "devToolsPort": 19002,
   "expoServerPort": 19000,
   "packagerPort": 19001,
-  "packagerPid": 35659,
+  "packagerPid": 38903,
   "expoServerNgrokUrl": "https://57-p9k.lohitg.messagehelper.exp.direct",
   "packagerNgrokUrl": "https://packager.57-p9k.lohitg.messagehelper.exp.direct",
-  "ngrokPid": 35679
+  "ngrokPid": 38920
 }
