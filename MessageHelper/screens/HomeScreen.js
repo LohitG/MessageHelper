@@ -90,7 +90,7 @@ export default class HomeScreen extends React.Component {
                 
           <View style={styles.helpContainer}>
             <TouchableOpacity onPress={this._handleHelpPress} style={styles.helpLink}>
-              <Text style={styles.helpLinkText}>Didn't recieve text?</Text>
+              <Text style={styles.helpLinkText}>"Didn't recieve text?"</Text>
             </TouchableOpacity>
           </View>
         </ScrollView>
