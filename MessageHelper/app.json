@@ -2,7 +2,6 @@
   "expo": {
     "icon": "./assets/images/MessageIcon.png",
     "name": "MessageHelper",
-    "school": "Dublin High School",
     "privacy": "public",
     "sdkVersion": "32.0.0",
     "platforms": [
@@ -16,6 +15,6 @@
     },
     "assetBundlePatterns": [
       "**/*"
-    ],
+    ]
   }
 }
