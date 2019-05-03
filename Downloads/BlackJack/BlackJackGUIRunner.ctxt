@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=BlackJackGUIRunner
+comment0.text=\n\ Write\ a\ description\ of\ class\ PairsGUIRunner\ here.\n\n\ @author\ Justin\ Huang\n\ @version\ 4/20/2019\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ Plays\ the\ GUI\ version\ of\ BlackJack.\n\ @param\ args\ is\ not\ used.\n
+numComments=2
